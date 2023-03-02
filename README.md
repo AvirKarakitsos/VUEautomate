@@ -1,9 +1,10 @@
-# automate
+# Automates
 Une cellule (case noire) survit au tour suivant si elle a deux ou trois cellules voisines.
 Elle disparaît (devient case blanche) sinon.
 
 Une cellule naît (passe de case blanche à case noire) au tour suivant si elle a 3 cellules (cases noires) voisines.
 
+![Image](https://github.com/AvirKarakitsos/VUEautomate/blob/main/src/assets/screenshot.png?raw=true)
 ## Project setup
 ```
 npm install
