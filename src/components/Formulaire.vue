@@ -7,7 +7,7 @@
 		<label for="ligne">Nombre de lignes</label>
 		<input id="ligne" type="number" v-model="inputLigne" max="20"/>
 
-		<label for="times">Nombre d'occurrences</label>
+		<label for="times">Nombre d'itérations</label>
 		<div>
             <input id="times" type="number" v-model="inputTime"/>
             <span>{{afficheCurrentTime}}</span>
